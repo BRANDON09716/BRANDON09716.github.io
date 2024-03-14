@@ -133,7 +133,7 @@ skills:
       - name: Gaming
         description: ''
         percent: 80
-        icon: game
+        icon: phone
 
 languages:
   - name: Chinese
